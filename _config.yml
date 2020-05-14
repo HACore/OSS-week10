@@ -17,7 +17,7 @@ baseurl:  # the subpath of your site, e.g. /blog/
 
 remote_theme : old-jekyll-templates/Twenty-Jekyll-Theme
 
-url: "http://locahost:4000" # the base hostname & protocol for your site
+url: "https://github.com/HACore/HACore.github.io" # the base hostname & protocol for your site
 
 twitter_username: jekyllrb
 
